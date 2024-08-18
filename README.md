@@ -1,6 +1,6 @@
 - 👋 Hi, I’m MAINAK KUNDU
 - 👀 I’m interested in WEB DEVELOPMENT
-- 🌱 I’m currently a newv=bie in this field and learning 
+- 🌱 I’m currently a newbie in this field and learning 
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 - 😄 Pronouns: he/him/his
